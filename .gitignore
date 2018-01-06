@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/C0Compiler.VC.VC.opendb

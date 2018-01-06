@@ -2,6 +2,8 @@
 using namespace std;
 
 
+int a = 0;  //VS Git ≤‚ ‘
+
 
 int main(int argc, char **argv) 
 {
